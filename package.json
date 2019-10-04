@@ -1,5 +1,5 @@
 {
-  "name": "fountainhead-bitserve",
+  "name": "dvt-bitserve",
   "version": "0.0.7",
   "description": "bitdb microservice",
   "main": "index.js",
