@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fountainhead-core": "0.0.5",
+    "dvt-bitdb-core": "0.0.12",
     "cors": "^2.8.5",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
