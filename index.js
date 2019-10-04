@@ -116,7 +116,7 @@ var run = async function() {
     console.log("######################################################################################");
     console.log("#")
     console.log("#  BITSERVE: BitDB Microservice")
-    console.log("#  Serving Bitcoin through HTTP...")
+    console.log("#  Serving DeVault through HTTP...")
     console.log("#")
     console.log(`#  Explorer: ${ip.address()}:${config.port}/explorer`);
     console.log(`#  API Endpoint: ${ip.address()}:${config.port}/q`);

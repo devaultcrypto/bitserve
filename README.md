@@ -16,15 +16,15 @@ This project contains:
 
 You must have the following installed.
 
-1. Bitcoin Full Node: Any BCH node implementation
-2. Bitdb Node: Bitdb is a universal bitcoin database that autonomously synchronizes with Bitcoin https://github.com/fountainhead-cash/bitd
+1. DeVault Full Node: Any DVT node implementation
+2. Bitdb Node: Bitdb is a universal database that autonomously synchronizes with DeVault https://github.com/devaultcrypto/bitd
 
 
 # Install
 
 **Clone the Bitserve repository:**
 ```
-git clone https://github.com/fountainhead-cash/bitserve.git && cd bitserve
+git clone https://github.com/devaultcrypto/bitserve.git && cd bitserve
 ```
 
 **Install dependencies:**
@@ -58,8 +58,3 @@ npm install pm2 -g
 pm2 start index.js --name="Bitserve"
 ```
 
-
-
-## Join the Community
-
-- Chat: Join fountainhead.cash Telegram channel, ask questions, share your projects, etc. [Open chat](http://t.me/fountainheadcash)
